@@ -1,6 +1,6 @@
 # 🌐 Proyecto de Redes - Simulación en Cisco Packet Tracer
   
-👤 Autor
+👤 Autor:
 Camilo Andrés Martínez Peña
 
 ## 📋 Descripción
